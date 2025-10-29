@@ -1,0 +1,14 @@
+{
+  "name": "ovs",
+  "version": "1.0.0",
+  "description": "Online Voting System",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
